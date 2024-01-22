@@ -11,10 +11,10 @@ I hope to both gain the technical knowledges to execute visualizations as well a
 
 # Portfolio
 
-# Header 1
+### Header 1
 
-# Header 2
+### Header 2
 
-# Header 3
+### Header 3
 
-# Final Project
+### Final Project
