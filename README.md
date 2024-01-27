@@ -1,3 +1,5 @@
+| [home page](https://kjmattso.github.io/Mattson-portfolio/) | [visualizing-government-debt](https://kjmattso.github.io/Mattson-portfolio/Visualizing_gov_debt.html) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+
 # Mattson-portfolio
 A public portfolio of my work in Telling Stories with Data at CMU - Spring 2024. 
 
