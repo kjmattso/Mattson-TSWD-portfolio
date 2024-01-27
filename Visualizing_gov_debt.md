@@ -2,7 +2,7 @@
 
 # Visualizing Government Debt
 
-This assignment was includes two recreations of the OECD graph of government debt in 2016. 
+This assignment includes two recreations of the OECD graph of government debt in 2016. 
 
 ### Original Visualization
 
@@ -31,7 +31,6 @@ A selection of countries were chosen, to avoid visual clutter and highlight patt
 Axis titles were removed to avoid redundancy, and tick marks were minimized as they also add little to the narrative of the graph. Finally, an insightful title was added to add further context. A caption was included at the bottom with sources and citations to add credibility and allow further recreation of the data. Data was subsected fro 2016-most recent data to show highlight recent trends, and avoid further visual distractions from spending post the 2008 recession. 
 
 I feel this new visualization is far easier to read than the prior two. There is a clear narrative being created, and style choices enhance the main objective the visualization, with extemporaneous aspects excluded. The other visualizations added unnecessary clutter, and presented overwhelming amounts of data.
-
 
 <div class='tableauPlaceholder' id='viz1706392238825' style='position: relative'><noscript><a href='#'><img alt='Countries borrowed more right before the COVID-19 pandemic, but slowed new spending after. ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;CO&#47;COVID19_Debt&#47;COVID19_Debt&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='COVID19_Debt&#47;COVID19_Debt' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;CO&#47;COVID19_Debt&#47;COVID19_Debt&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
