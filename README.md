@@ -1,7 +1,7 @@
 # Mattson-portfolio
 A public portfolio of my work in Telling Stories with Data at CMU - Spring 2024. 
 
-- Web page URL: [https://cmustudent.github.io/tswd-portfolio-templates/](https://kjmattso.github.io/Mattson-portfolio/)
+- Web page URL: [https://kjmattso.github.io/Mattson-portfolio/](https://kjmattso.github.io/Mattson-portfolio/)
 - This repository: 
 
 # About me
