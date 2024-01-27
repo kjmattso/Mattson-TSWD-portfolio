@@ -1,6 +1,6 @@
 | [home page](https://kjmattso.github.io/Mattson-portfolio/) | [visualizing-government-debt](https://kjmattso.github.io/Mattson-portfolio/Visualizing_gov_debt.html) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Mattson-TSWD-portfolio
+# Kylee Mattson: TSWD portfolio
 A public portfolio of my work in Telling Stories with Data at CMU - Spring 2024. 
 
 - Web page URL: [https://kjmattso.github.io/Mattson-portfolio/](https://kjmattso.github.io/Mattson-portfolio/)
@@ -17,6 +17,8 @@ I hope to both gain the technical knowledges to execute visualizations as well a
 # Portfolio
 
 ### Assignment: [Visualizing Government Debt](Visualizing_gov_debt.md)
+
+This assignment included two recreations of OECD data on government debt. The assignment reflects my increased knowledge on using color, formatting, and text to improve the clarity of visualizations.
 
 ### Header 2
 
