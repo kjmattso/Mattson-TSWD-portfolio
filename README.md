@@ -1,6 +1,9 @@
 # Mattson-portfolio
 A public portfolio of my work in Telling Stories with Data at CMU - Spring 2024. 
 
+- Web page URL: [https://cmustudent.github.io/tswd-portfolio-templates/](https://kjmattso.github.io/Mattson-portfolio/)
+- This repository: 
+
 # About me
 My name is Kylee Mattson (she/her) originally from Minnesota. My background is in political science and electoral politics. I have a interest in both electoral policy as well as health policy! I am a second year PPM student interested in using visualizations to communicate complicated policy topics to all audiences quickly. 
 
