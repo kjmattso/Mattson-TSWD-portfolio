@@ -4,7 +4,7 @@
 
 I elected to redesign a visualization from Howmuch.net that shows which University in each state had the highest amount of new student loans borrowed by students in 2020 and 2021.
 
-![U.S. Universities with the Most Loan Originations 2020-2021](url_to_image](https://cdn.howmuch.net/articles/university-with-the-most-student-loan-originated-in-every-state-10b5.jpg)https://cdn.howmuch.net/articles/university-with-the-most-student-loan-originated-in-every-state-10b5.jpg)
+![U.S. Universities with the Most Loan Originations 2020-2021](https://cdn.howmuch.net/articles/university-with-the-most-student-loan-originated-in-every-state-10b5.jpg)
 
 The issue of rising student loan debt is obviously salient to myself, as as current student. The title of this graph alone drew me eye, and I immediately looked at the states I had connections to. It was a relief not to see Carnegie Mellon as Pennsylvania's listing! However, even when I knew what I wanted to see, it was hard to parse out complete information from the graph. My eyes were drawn to many places and I was overloaded with information. Looking at thsi graph for even a moment inspired me to make changes on it, some were obvious and some were not. 
 
