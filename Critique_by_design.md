@@ -20,3 +20,6 @@ To get initial critiques, I interviewed two different coworkers about their init
 
 1. (ADD QUESTIONS)
 
+Following the two interviews, I realized that the graph in it's current form was not communicating it's "story" very well at all. While they agreed that it was not confusing to read the values and obersavtions, it was hard to tell what the actual basis of each measurement was - top instution per state. The graph's current form did nto allows them to grasp that, despite it's other strengths. I decided the best way to improve this was to clear up teh graph axes, and improve the title and add a caption te the title. I elected to make the visualization in tableau to add additional interactive features to the graph. These included hover-boxes that shared the sintitution's name and type, as well as the abbreviated state/territory's full name - in case the abbreviations were not clear. 
+
+The original visualization site did not have the data available. I had to manually input the data into an Excel sheet to import it into Tableau. I did save a but of time by finding a publicly available .xlsx sheet that had all 50 states and abbreviations, and I only had to add the 3 territories. I did have to isolate each institution name, type, and amount from the visualization and also add it to the sheet. 
