@@ -4,3 +4,4 @@
 
 I elected to redesign a visualization from Howmuch.net that shows which University in each state had the highest amount of new student loans borrowed by students in 2020 and 2021.
 
+https://cdn.howmuch.net/articles/university-with-the-most-student-loan-originated-in-every-state-10b5.jpg
