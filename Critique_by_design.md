@@ -6,4 +6,4 @@ I elected to redesign a visualization from Howmuch.net that shows which Universi
 
 https://cdn.howmuch.net/articles/university-with-the-most-student-loan-originated-in-every-state-10b5.jpg
 
-https://github.com/kjmattso/Mattson-portfolio/edit/main/Critique_by_design.md#:~:text=Visualizing_gov_debt.md-,university,-%2Dwith%2Dthe%2Dmost
+![U.S. Universities with the Most Loan Originations 2020-2021](url_to_image](https://cdn.howmuch.net/articles/university-with-the-most-student-loan-originated-in-every-state-10b5.jpg)https://cdn.howmuch.net/articles/university-with-the-most-student-loan-originated-in-every-state-10b5.jpg)
