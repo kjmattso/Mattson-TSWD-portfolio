@@ -14,7 +14,7 @@ To start my initial redesign, I addressed my biggest issues first. My main issue
 
 Finally I chose to change the format to a bar graph, sorted in descending order. I felt this better communicated the extreme points of teh graph, adn the disparities across locations adn insitutions felt like one of the most compelling pieces of information of the graph, and resonated with the intended audiences best, prospective students and researchers. Finally, I added a better title that I felt was in simpler language. The first redesign is pictured below:
 
-![First Recreation](/Users/kyleemattson/Documents/CMU/Class Materials/Spring_2024/Telling Stories With Data/HW/HW 3 & 4)
+![First Recreation](IMG_9375.png)
 
 To get initial critiques, I interviewed two different coworkers about their initial thoughts. Both are mid-twenties and are attending college at this time, and I felt they would find this very interesting. However, there was a lot of confusion I had to account for and adjust in my final visualization. 
 
