@@ -16,10 +16,48 @@ Finally I chose to change the format to a bar graph, sorted in descending order.
 
 (ADD PICTURE HERE)
 
-To get initial critiques, I interviewed two different coworkers about their initial thoughts. Both are mid-twenties and are attending college at this time, and I felt they would find this very interesting. However, there was a lot of confusion I had to account for and adjust in my final visualization. I asked the two of them the same 7 questions:
+To get initial critiques, I interviewed two different coworkers about their initial thoughts. Both are mid-twenties and are attending college at this time, and I felt they would find this very interesting. However, there was a lot of confusion I had to account for and adjust in my final visualization. 
 
-1. (ADD QUESTIONS)
+I asked the two of them the same 7 questions. I listed them below, along with their answers. We will call them "J" and "K"!
 
-Following the two interviews, I realized that the graph in it's current form was not communicating it's "story" very well at all. While they agreed that it was not confusing to read the values and obersavtions, it was hard to tell what the actual basis of each measurement was - top instution per state. The graph's current form did nto allows them to grasp that, despite it's other strengths. I decided the best way to improve this was to clear up teh graph axes, and improve the title and add a caption te the title. I elected to make the visualization in tableau to add additional interactive features to the graph. These included hover-boxes that shared the sintitution's name and type, as well as the abbreviated state/territory's full name - in case the abbreviations were not clear. 
+### 1. Where does your eye go to first?
+
+Both J and K answered that the bars on the graph drew their attention first. I took that as good news - that their first instinct was to look at the data. I hoped it meant that I had avoided distracting design details, and they knew to look at the graph's data, or "story" as I like to call it. 
+
+### 2. What do you think this graph is trying to tell you?
+
+J: What college system in each state bas the most student loans, in all 50 states. Not proportional to population, just the total sum.
+K: How much money people meed to borrow to go to school, and the highest is Arizona.
+
+### 3. Did the graph leave you with additional questions? Or, did you want any more info. from the graph?
+
+J: Yes, is it the total sum of each state? For example, Arizona v. Vermont?
+K: I want to know if it's scaled by population?
+
+### 4. Did anything confuse you? 
+
+J: Are the students both in-state and non-residents? And the y-axis, it took me a moment to interpret. 
+K: Is it both in-state and non-resident students?
+
+### 5. Did you find anything surprising?
+
+J: Just the results.
+K: Arizona being first, and California not being in the top 5 given that it has the highest population.
+
+### 6. Is there anything you personally would do differently?
+
+J: No. 
+K: Not all blue, with the labels, axis, and titles. Just the bars should be blue.
+
+### 7. What audience would use this graph?
+
+J: Policy-makers.
+K: Department of Education.
+
+Following the two interviews, I realized that the graph in it's current form was not communicating it's "story" very well yet. While they agreed that it was not confusing to read the values and results, it was hard to tell what the actual basis of each measurement was - top instution per state. The graph's current form did not allows them to grasp that, despite it's other strengths. I decided the best way to improve this was to clear up the graph axes, improve the title, and add a caption to the title. I elected to make the visualization in tableau to add additional interactive features to the graph. These included hover-boxes that shared the institution's name and type, as well as the abbreviated state/territory's full name - in case the abbreviations were not clear. 
 
 The original visualization site did not have the data available. I had to manually input the data into an Excel sheet to import it into Tableau. I did save a but of time by finding a publicly available .xlsx sheet that had all 50 states and abbreviations, and I only had to add the 3 territories. I did have to isolate each institution name, type, and amount from the visualization and also add it to the sheet. 
+
+The .xlsx I found was online in a publicly-available Google Sheet. You can find that [here](https://docs.google.com/spreadsheets/d/14wvnQygIX1eCVo7H5B7a96W1v5VCg6Q9yeRoESF6epw/edit#gid=0)
+
+
