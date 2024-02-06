@@ -12,7 +12,7 @@ Obviously, I found the information from this graph relevant and important. I kne
 
 To start my initial redesign, I addressed my biggest issues first. My main issues were the use of school logos, utilizing both seperate colors and colors scales, the redundancy of the color scales and dollar amount labels, and changing the format from the graph away from a U.S. map. I felt the use of school logos added unnecessary clutter and introduce opportunity for confusion is if logos are unrecognizable or are mistaken for another institution. I felt this confusion overrode any benefits of building a connection to the visualization with the logos. The use of colors to show both cost and type lead to a palette with almost 10 colors. If I had used color, I would have done so with it varying only across one dimension, but I elected not to use a color scale as I felt the information conveyed was distracting from theh main point of the visualization. This also solved the redundancy of the color scale and dollar amount labels. 
 
-Finally I chose to change the format to a bar graph, sorted in descending order. I felt this better communicated the extreme points of teh graph, adn the disparities across locations adn insitutions felt like one of the most compelling pieces of information of the graph, and resonated with the intended audiences best, prospective students and researchers. Finally, I added a better title that I felt was in simpler language. The first redesign is pictured below:
+Finally I chose to change the format to a bar graph, sorted in descending order. I felt this better communicated the extreme points of the graph. The disparities across locations and insitutions felt like one of the most compelling pieces of information of the graph, and resonated with the intended audiences best, prospective students and researchers. Finally, I added a better title that I felt was in simpler language. The first redesign is pictured below:
 
 ![First Recreation](IMG_9375.png)
 
@@ -77,4 +77,13 @@ var scriptElement = document.createElement('script');
 scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);               
 </script>
 
+However, after the in-class critique, I realized that I wasn't quite finished. My group mates did understand the graph much better, but there was still some questions about the content. I adjusted the axes and the title to make a bit clearer and address their feedback. I also added value labels to the top state's, in addition to the hover bars. Here is my final design, after all critiques:
 
+<div class='tableauPlaceholder' id='viz1707231249965' style='position: relative'><noscript><a href='#'><img alt='Where in the U.S. did students take out the most new loans in 2020-2021?Ranked by the university in each state that had the most new loans borrowed by student&#39;s to covert he cost of attendance in 2020-2021, regardless of loan type. ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;NewLoans-final&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='NewLoans-final&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;NewLoans-final&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+var divElement = document.getElementById('viz1707231249965');                    
+var vizElement = divElement.getElementsByTagName('object')[0];                    
+vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+var scriptElement = document.createElement('script');                    
+scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);               
+</script>
