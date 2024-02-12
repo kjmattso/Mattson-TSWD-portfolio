@@ -73,5 +73,5 @@ Data about proper care and preventative measures are easy enough to find. Whenev
 
 To make the full presentation, I will use Shorthand with some visualizations created in Tableau as needed by the software. But, to make it as seamless as possible, I hope to use Shorthand as much as possible. Canva may be needed to create larger visualizations, but I have experience with that software and am confident I can use it well. For any stock images I plan to search royalty free photo banks. All sources will be directly cited through outside links whenever possible, and all sources will be included at the end as well. 
 
-# In-class exercise
+## In-class exercise
 My group for my in-class critique was very responsive to the idea and agreed with the direction I planned to take. There main comment was to make sure that I had the focus narrowed a lot by then end, and keep the call-to-action in mind as I worked.
