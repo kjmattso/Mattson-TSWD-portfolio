@@ -67,6 +67,8 @@ Thankfully, I can get alot of my outcome data form a source I have used frequent
 
 The NSCH lists outcomes on thousands of of health questions, both dichotomous responses, binary yes/no responses, and a Lot of rankings on a Likert scale. Additionally, they often list how frequently they receive care, etc. The data is in the thousands, and national, so I don't feel uncomfortable sharing it as a potentially representative figure of the US. I won't be running any statistical analyses of course, but this will be useful creating impact and getting attention form the audience about the severity of the issues. 
 
+Data can be found [here.](https://www.childhealthdata.org/browse/survey) 
+
 Data about proper care and preventative measures are easy enough to find. Whenever possible, I plan to use the American Dental Association's website for information about treatments and their efficacy. They will likely have data on some of the policy measures I plan to discuss - what and where they are. 
 
 To make the full presentation, I will use Shorthand with some visualizations created in Tableau as needed by the software. But, to make it as seamless as possible, I hope to use Shorthand as much as possible. Canva may be needed to create larger visualizations, but I have experience with that software and am confident I can use it well. For any stock images I plan to search royalty free photo banks. All sources will be directly cited through outside links whenever possible, and all sources will be included at the end as well. 
