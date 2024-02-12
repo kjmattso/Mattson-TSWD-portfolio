@@ -44,15 +44,15 @@ For my visualizations I plan to lean into the theme, utilizing dental care relat
 
 ### Timeline
 This will be used to show a historical time line. I would love to make it interactive and allow people to hover over it to see more detail. 
-![Sample Timeline](Timeline-sample.png)
+![Sample Timeline](Timeline.png)
 
 ### Count Icons
 I will likely use a style like this to share stats about the prevalance of conditions, or the lack of access to care, etc. It is a simple, well known way to share data, and I am hoping to keep the messaging simple and eye catching!
-![Sample Count Icons](Count_List-sample.png)
+![Sample Count Icons](Count_list.png)
 
 ### Bulleted Lists
 To stay on theme and have a little fun, I plan to use smileys whenever possible to list facts. It likely won't be as long as this sample list. But, being able to use different faces to portray the mood of different facts is a fun way to stay on theme and encourage emotion from the audience when appropriate.
-![Sample Bullet List](Bullet_List-sample.png)
+![Sample Bullet List](Bullet_list.png)
 
 ### Fill bar
 This is a fun way to share a fact that would normally be represented by something like a pie chart or stacked bar chart. The exact vector I would use to fill is up in the air still, but this is a fun idea that I am trying to riff off of. 
