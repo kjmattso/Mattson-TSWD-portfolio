@@ -44,23 +44,23 @@ For my visualizations I plan to lean into the theme, utilizing dental care relat
 
 ### Timeline
 This will be used to show a historical time line. I would love to make it interactive and allow people to hover over it to see more detail. 
-
+![Sample Timeline](Timeline-sample.png)
 
 ### Count Icons
 I will likely use a style like this to share stats about the prevalance of conditions, or the lack of access to care, etc. It is a simple, well known way to share data, and I am hoping to keep the messaging simple and eye catching!
-
+![Sample Count Icons](Count_List-sample.png)
 
 ### Bulleted Lists
 To stay on theme and have a little fun, I plan to use smileys whenever possible to list facts. It likely won't be as long as this sample list. But, being able to use different faces to portray the mood of different facts is a fun way to stay on theme and encourage emotion from the audience when appropriate.
-
+![Sample Bullet List](Bullet_List-sample.png)
 
 ### Fill bar
 This is a fun way to share a fact that would normally be represented by something like a pie chart or stacked bar chart. The exact vector I would use to fill is up in the air still, but this is a fun idea that I am trying to riff off of. 
-
+![Sample Fill Bar](Fill_bar.png)
 
 ### Heat map
 This is nothing revolutionary - but again I am not necessarily looking to revolutionize data visualizations. Just portray a complicated topic quickly! Here is a heatmap I would do to show the spread of policy interventions, etc. across the US. I will keep it on theme, using the same HEX colors as the remaining designs.
-
+![Sample Heat Map](Heatmap.png)
 
 # Data and Format
 Thankfully, I can get alot of my outcome data form a source I have used frequently: The National Survey of Children's Health (NSCH). I have done other projects on this topic and can use those articles and studies I have used previously. I am confident that I will be able to find everything I need! 
