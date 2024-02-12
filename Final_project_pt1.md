@@ -18,22 +18,22 @@ The final project will take a simple approach, of starting broad, and narrowing 
 
 The headings of these sections will likely be something along these lines:
 
-### History
-### Outcomes
-### Where are we today?
+### "History"
+### "Outcomes"
+### "Where are we today?"
 
 After the introduction. I plan to present some research on how standard care can improve outcomes. This won't be a formal call to action yet, but will support a later one. Resources on proper hygiene and care will be available form outside sources, and I would like to use a series of graphs to visualizations to show the before and after impacts of basic care. This will begin to inform the audience about how easily this could be prevented if we raised public awareness. This heading will draw attention to the options that the average person has to treat this:
 
-### Treatments
+### "Treatments"
 or 
-### What can you do?
+### "What can you do?"
 
 Following this, I plan to elaborate on some policy interventions at play and introduce care remedies that might not be doable at home, but are not impossible resources to utilize. Again, this continues to drive home the point of "we should care, we can make a difference". More visualizations showing before and after outcomes will be included, and maybe heatmaps that show the utilization of national policy measures would be helpful and provide a regional connection to American audiences. ("I'm so happy my state does this" or "Why doesn't my state do this?") Again, we aren't quite at teh formal call to action, but we need this info. for it. These section names will call attention to the work of policy:
 
-### Government Interventions
-### Policy Interventions
+### "Government Interventions"
+### "Policy Interventions"
 or
-### What's already being done
+### "What's already being done"
 
 Here comes the call to action: real policies or at-home actions that people can take . I will hyperlink info. more steps people can take after the presentation, and also another big opportunity: raising awareness.I will rely heavily on good graphics to draw attention, as I know many people don't care as much as they should about this topic, and I want them to remember it. 
 
