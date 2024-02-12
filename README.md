@@ -19,8 +19,8 @@ I hope to both gain the technical knowledges to execute visualizations as well a
 
 This assignment included two recreations of OECD data on government debt. The assignment reflects my increased knowledge on using color, formatting, and text to improve the clarity of visualizations.
 
-### Header 2
+### Assignment: [Critique by Design](Critique_by_design.md)
 
-### Header 3
+### [Final Project Part 1](Final_project_pt1.md)
 
 ### Final Project
