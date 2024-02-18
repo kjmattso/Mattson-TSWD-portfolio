@@ -12,16 +12,16 @@ I started storyboarding on a piece of paper - I find this the best way to start 
      - Teeth Issues
      - Confidence Issues
 #### 2. Introduce existing public health measures to show how the Government has decided to invest in this issues - build audience investmenta as well
-   Timeline visualization - make it interactive
-   But express how the problem still exists (COVID?)  
+   - Timeline visualization - make it interactive
+   - But express how the problem still exists (COVID?)  
 #### 3. Transition to how preventable it is! - Keep the mood happy and eager and temper the sad stats :(
-   Visualization on statistics from ADA and papers about how it is preventable
+   - Visualization on statistics from ADA and papers about how it is preventable
 #### 4. Start call to action!
-   Supporting policy
-     Dental Therapy
-     School Based Care
-   At home care/Regular visits
-     Visualization on how to prevent!
-   Donate and support causes
-     Link to various non-profits
-   Potential link to get it on legislative agenda
+   - Supporting policy
+     - Dental Therapy
+     - School Based Care
+   - At home care/Regular visits
+     - Visualization on how to prevent!
+   - Donate and support causes
+     - Link to various non-profits
+   - Potential link to get it on legislative agenda
