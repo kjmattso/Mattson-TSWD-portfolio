@@ -26,7 +26,7 @@ I started storyboarding on a piece of paper - I find this the best way to start 
      - Link to various non-profits
    - Potential link to get it on legislative agenda
 
-Now that I have some framework to work off of, I can start building visualizations.
+I didn't end up following this exactly, but it gave me a good place to start! Now that I have some framework to work off of, I can start building visualizations.
 
 ## Visualizations.
 
@@ -37,4 +37,4 @@ I decided to start building out my story with the above storybaord straight into
 
 To start making my visualizations I had to pre-clean the data. My very first step was to open the code book that youy have to reference to use the.csv from the National Survey of Children's Health. I first erased any row that did not have anything to do with Dental Health. This erased 891 questions out of 922. This left me with 31 possible questions. Having worked with this data set before, I knew there was likely some redundant data - or some columns were transformations of earlier questions. So, I went through this much closer to identify what data I actually needed and make a .csv that could be useable in Tableau, Canva, or any other software I wanted. I ended up keeping 11 columns of data. But, I still had 54000 rows of data - so a lot to work with. 
 
-Fortunately, I was able to make most of the visualizations from theh [National Survey of Children's Health](https://www.childhealthdata.org/learn-about-the-nsch)
+Fortunately, I was able to make most of the visualizations from the [National Survey of Children's Health](https://www.childhealthdata.org/learn-about-the-nsch). I made some of my first visualizations (the prevalence of children with cavities, diabetes, and asthma) in Canva. 
