@@ -45,10 +45,10 @@ I made 3 Tableau visualizations:
 #### 1. An interactive timeline
 This interactive timeline required me to do some research on exact dates that certain important events in the development of teh Dental practice happened. I then entered each year into an Excel sheet, with an abbreviated description for the time line, and a longer one for an interactive tool box. I built a "dummy" aggregate sum in the column to make them all on one line!
 
-### 2. Bar graph of treatment and income
+#### 2. Bar graph of treatment and income
 I chose to make a simple bar graph for this data, as I couldn't show it any better! The disparities are obvious quickly, and this one was pretty simple to make clear and effective. Unfortunately the data limits how they bin income, reducing the cross comparison I could make, but nevertheless, it is still effective!
 
-### 3. Heatmap of outcomes
+#### 3. Heatmap of outcomes
 For this US map, I tapped into a different data set - the CDC's report on compliance with School Based Sealant Benchmarks. Unfortunately this was a PDF, so I did have to hand import it into a PDF. I then had to use Excel functions to transform the grades to become a a numeric value for Tableau to make a heat map. 
 
 ## User Research Protocol
