@@ -20,8 +20,14 @@ I hope to both gain the technical knowledges to execute visualizations as well a
 This assignment included two recreations of OECD data on government debt. The assignment reflects my increased knowledge on using color, formatting, and text to improve the clarity of visualizations.
 
 ### Assignment: [Critique by Design](Critique_by_design.md)
+This assignment was a redesign and critiques of an existing data graphic about student loan debt origination. I made the visualization redesign within tableau, and you can see the embeded final image.
 
 ### [Final Project Part 1](Final_project_pt1.md)
+This is the first part of three of my final project. Here, I state my topic (children's oral health), made a basic storyboard, identified my dataset, and some draft visualizations.
 
 ### [Final Project Part 2](Final_project_pt2.md)
+This is part two of three of my final project. Here I created a more fleshed out storyboard and wireframes in the Shorthand software. I also conducted user interviews for feedback and included that in my write up. You can see the first draft on this page by following the link.
+
+### [Final Project Part 3](Final_project_pt3.md)
+The final part of my Children's Oral Health project. The link can be found on this page to my Shorthand story, as well as a small write up on my final presenatation and work on the project.
 
